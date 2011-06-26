@@ -1,0 +1,17 @@
+#Sun Jun 26 19:24:04 MSD 2011
+action.package=ru.sifox.psp.main.session
+action.sources=/psp-main-ejb/ejbModule
+eclipse.preferences.version=1
+model.package=ru.sifox.psp.main.entity
+model.sources=/psp-main-ejb/ejbModule
+seam.ear.project=psp-main-ear
+seam.ejb.project=psp-main-ejb
+seam.project.connection.profile=PSP Main DS
+seam.project.deployment.type=ear
+seam.project.settings.version=1.1
+seam.project.web.root.folder=/psp-main/WebContent
+seam.runtime.name=jboss-seam-2.2.2.Final
+seam.test.creating=false
+seam.test.project=psp-main-test
+test.package=org.domain.pspmain.test
+test.sources=/psp-main-test/test-src
