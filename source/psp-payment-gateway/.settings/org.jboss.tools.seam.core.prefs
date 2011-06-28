@@ -1,0 +1,17 @@
+#Tue Jun 28 19:30:56 MSD 2011
+action.package=ru.sifox.psp.pg.session
+action.sources=/psp-payment-gateway-ejb/ejbModule
+eclipse.preferences.version=1
+model.package=ru.sifox.psp.pg.entity
+model.sources=/psp-payment-gateway-ejb/ejbModule
+seam.ear.project=psp-payment-gateway-ear
+seam.ejb.project=psp-payment-gateway-ejb
+seam.project.connection.profile=PSP Main DS
+seam.project.deployment.type=ear
+seam.project.settings.version=1.1
+seam.project.web.root.folder=/psp-payment-gateway/WebContent
+seam.runtime.name=jboss-seam-2.2.2.Final
+seam.test.creating=false
+seam.test.project=psp-payment-gateway-test
+test.package=org.domain.psppaymentgateway.test
+test.sources=/psp-payment-gateway-test/test-src
